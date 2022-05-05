@@ -19,6 +19,15 @@ header {
     position: fixed;
 }
 
+header a:nth-child(2) {
+    background-color: #80ADDC;
+    padding: 18px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 10px;
+}
+
 .main-content {
     padding-top: 220px;
     text-align: center;
